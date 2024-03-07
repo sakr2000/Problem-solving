@@ -2,6 +2,11 @@
 
 This repo is to keep track of the problems i solve using JS in various sites.
 
+### Profile Links :
+
+- [LeetCode](https://leetcode.com/sakr83117/)
+- [CodeWars](https://www.codewars.com/users/Sakr2000)
+
 ## Problems
 
 ### Easy :
@@ -17,6 +22,9 @@ This repo is to keep track of the problems i solve using JS in various sites.
 |   7   | LeetCode |      Array Reduce Transformation      |      [Problem](https://leetcode.com/problems/array-reduce-transformation/?envType=study-plan-v2&envId=30-days-of-javascript)       | [Solution](problems/2626.ArrayReduceTransformation.js) |
 |   8   | LeetCode |         Function Composition          |    [Problem](https://leetcode.com/problems/function-composition/description/?envType=study-plan-v2&envId=30-days-of-javascript)    |    [Solution](problems/2629.FunctionComposition.js)    |
 |   9   | LeetCode |                Two Sum                |                                   [Problem](https://leetcode.com/problems/two-sum/description/)                                    |           [Solution](problems/1.Two_Sum.js)            |
+|  10   | LeetCode |           Linked List Cycle           |                              [Problem](https://leetcode.com/problems/linked-list-cycle/description/)                               |     [Solution](problems/141.Linked_List_Cycle.js)      |
+|  11   | LeetCode |       Middle of the Linked List       |                          [Problem](https://leetcode.com/problems/middle-of-the-linked-list/description/)                           | [Solution](problems/876.Middle_of_the_Linked_List.js)  |
+|  12   | LeetCode |           Add Two promises            |                               [Problem](https://leetcode.com/problems/add-two-promises/description/)                               |        [Solution](problems/Add_Two_promises.js)        |
 
 ### Medium :
 
@@ -27,3 +35,4 @@ This repo is to keep track of the problems i solve using JS in various sites.
 |   3   | LeetCode |           Remove Nth Node From End of List           |    [Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/?envType=daily-question&envId=2024-03-03)     |              [Solution](problems/19.Remove_Nth_NodeFromEndofList.js)              |
 |   4   | LeetCode |                    Bag of Tokens                     |                                  [Problem](https://leetcode.com/problems/bag-of-tokens/)                                  |                     [Solution](problems/948.Bag_of_Tokens.js)                     |
 |   5   | LeetCode | Minimum Length of String After Deleting Similar Ends |              [Problem](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)               | [Solution](problems/1750.Minimum_Length_of_String_After_Deleting_Similar_Ends.js) |
+|   6   | LeetCode |                       Memoize                        |                               [Problem](https://leetcode.com/problems/memoize/description/)                               |                       [Solution](problems/2623.Memoize.js)                        |
