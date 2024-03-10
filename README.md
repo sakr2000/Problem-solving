@@ -26,6 +26,10 @@ This repo is to keep track of the problems i solve using JS in various sites.
 |  11   | LeetCode |       Middle of the Linked List       |                          [Problem](https://leetcode.com/problems/middle-of-the-linked-list/description/)                           |       [Solution](problems/876.Middle_of_the_Linked_List.js)        |
 |  12   | LeetCode |           Add Two promises            |                               [Problem](https://leetcode.com/problems/add-two-promises/description/)                               |              [Solution](problems/Add_Two_promises.js)              |
 |  13   | LeetCode | Count Elements With Maximum Frequency |                          [Problem](https://leetcode.com/problems/count-elements-with-maximum-frequency/)                           | [Solution](problems/3005.Count_Elements_With_Maximum_Frequency.js) |
+|  14   | LeetCode |         Timeout Cancellation          |                             [Problem](https://leetcode.com/problems/timeout-cancellation/description/)                             |         [Solution](problems/2715.Timeout_Cancellation.js)          |
+|  15   | LeetCode |         Interval Cancellation         |                            [Problem](https://leetcode.com/problems/interval-cancellation/description/)                             |         [Solution](problems/2725.Interval_Cancellation.js)         |
+|  16   | LeetCode |         Minimum Common Value          |                             [Problem](https://leetcode.com/problems/minimum-common-value/description/)                             |         [Solution](problems/2540.Minimum_Common_Value.js)          |
+|  17   | LeetCode |      Intersection of Two Arrays       |                          [Problem](https://leetcode.com/problems/intersection-of-two-arrays/description/)                          |       [Solution](problems/349.Intersection_of_Two_Arrays.js)       |
 
 ### Medium :
 
