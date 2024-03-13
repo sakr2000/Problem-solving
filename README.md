@@ -30,6 +30,8 @@ This repo is to keep track of the problems i solve using JS in various sites.
 |  15   | LeetCode |         Interval Cancellation         |                            [Problem](https://leetcode.com/problems/interval-cancellation/description/)                             |         [Solution](problems/2725.Interval_Cancellation.js)         |
 |  16   | LeetCode |         Minimum Common Value          |                             [Problem](https://leetcode.com/problems/minimum-common-value/description/)                             |         [Solution](problems/2540.Minimum_Common_Value.js)          |
 |  17   | LeetCode |      Intersection of Two Arrays       |                          [Problem](https://leetcode.com/problems/intersection-of-two-arrays/description/)                          |       [Solution](problems/349.Intersection_of_Two_Arrays.js)       |
+|  18   | LeetCode |            Is Object Empty            |                               [Problem](https://leetcode.com/problems/is-object-empty/description/)                                |            [Solution](problems/2727.Is_Object_Empty.js)            |
+|  19   | LeetCode |        Find the Pivot Integer         |                            [Problem](https://leetcode.com/problems/find-the-pivot-integer/description/)                            |        [Solution](problems/2485.Find_the_Pivot_Integer.js)         |
 
 ### Medium :
 
@@ -43,3 +45,4 @@ This repo is to keep track of the problems i solve using JS in various sites.
 |   6   | LeetCode |                       Memoize                        |                               [Problem](https://leetcode.com/problems/memoize/description/)                               |                       [Solution](problems/2623.Memoize.js)                        |
 |   7   | LeetCode |                  Custom Sort String                  |                               [Problem](https://leetcode.com/problems/custom-sort-string/)                                |                    [Solution](problems/Custom_Sort_String.js)                     |
 |   8   | LeetCode |                  Promise Time Limit                  |                         [Problem](https://leetcode.com/problems/promise-time-limit/description/)                          |                  [Solution](problems/2637.Promise_Time_Limit.js)                  |
+|   9   | LeetCode |  Remove Zero Sum Consecutive Nodes from Linked List  |               [Problem](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)                |  [Solution](problems/1171.Remove_Zero_Sum_ConsecutiveNodes_from_Linked_List.js)   |
